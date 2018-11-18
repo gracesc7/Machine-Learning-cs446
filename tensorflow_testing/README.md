@@ -1,3 +1,3 @@
-# Assignment 1: Intro to Tensorflow
+# Intro to Tensorflow
 
 
