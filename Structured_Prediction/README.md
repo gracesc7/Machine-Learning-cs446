@@ -1,1 +1,1 @@
-# Assignment 7: Linear MRF for Image Denoising.
+# Linear Markov Random Field for image denoising
